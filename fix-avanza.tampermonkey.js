@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fix Avanza v2
 // @namespace    http://labs.leven.se/
-// @version      0.1
+// @version      0.2
 // @description  Fix what the Avanza developers should never have changed...
 // @description  >> Download Tampermonkey to your favourite browser to enable this script: https://tampermonkey.net/ <<
 // @author       Mikael Levén
