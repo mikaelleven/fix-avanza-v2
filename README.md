@@ -6,7 +6,7 @@ This minor user script aim's to amend some issues with the new V2 design of Avan
 * Alternately colored rows in the stock list (even rows has a light grey tone)
 
 Preview of how it looks:
-![Alt text](fix-avanza-v2.png?raw=true "Title")
+![Image describing the final result](fix-avanza-v2.png?raw=true "")
 
 This script works by addind some stylesheets that overrides the default Avanza CSS. GreaseMonkey/TamperMonkey is required to run the script.
 
