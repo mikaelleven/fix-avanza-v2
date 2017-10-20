@@ -8,6 +8,6 @@ This minor user script aim's to amend some issues with the new V2 design of Avan
 Preview of how it looks:
 ![Image describing the final result](fix-avanza-v2.png?raw=true "")
 
-This script works by addind some stylesheets that overrides the default Avanza CSS. GreaseMonkey/TamperMonkey is required to run the script.
+This script works by adding some stylesheets that overrides the default Avanza styles. GreaseMonkey/TamperMonkey is required to run the script.
 
 
